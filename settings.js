@@ -1,0 +1,1 @@
+function openSettings() { alert("Pengaturan mode gelap & bahasa akan segera hadir!"); }
